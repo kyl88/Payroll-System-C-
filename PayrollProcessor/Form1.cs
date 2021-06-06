@@ -44,7 +44,7 @@ namespace PayrollProcessor
                      {
 
 
-                        MessageBox.Show("The value is invalid","Please try again");
+                        MessageBox.Show("The value for hourly salary is invalid","Please try again");
 
                         this.txtHourlySalary.Focus();
 
